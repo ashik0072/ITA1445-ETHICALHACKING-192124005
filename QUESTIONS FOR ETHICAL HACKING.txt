@@ -1,1 +1,10 @@
-
+To perform harvester in kali linux terminal
+To perform IPCONFIG commands in kali linux termainal
+To perform kali linux commands in terminal
+To perform NMAP scan using the kali linux terminal
+To perform NESSUS operations in NESSUS  application
+To perform OSR FRAMEWORK in the kali linux terminal
+To perform vulnerability analysis in kali linux termainal
+To perform WHOIS informations of a website using WHO.IS website
+To create batch file in windows and run the executable file
+To run wireshark and capture the ip addresses and the apply filters
